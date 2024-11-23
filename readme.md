@@ -89,7 +89,7 @@ The API is built using Express for the server framework and MongoDB for data sto
    ```bash
      https://unpleasant-cleopatra-twinsapp-9e9ee0ab.koyeb.app/voucher
      https://unpleasant-cleopatra-twinsapp-9e9ee0ab.koyeb.app/brand
-     https://unpleasant-cleopatra-twinsapp-9e9ee0ab.koyeb.app/user
+     https://unpleasant-cleopatra-twinsapp-9e9ee0ab.koyeb.app/users
      https://unpleasant-cleopatra-twinsapp-9e9ee0ab.koyeb.app/transaction/redemption
    ```
 
