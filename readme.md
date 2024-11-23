@@ -48,7 +48,7 @@
    Clone the project to your local machine:
 
    ```bash
-   git clone [https://github.com/WindiAlAzmi/backend-mysql.git](https://github.com/WindiAlAzmi/backend-mysql.git)
+   git clone https://github.com/WindiAlAzmi/backend-mysql.git
    ```
 
 2. **Install Dependencies**  
