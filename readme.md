@@ -5,16 +5,7 @@
 This is a simple Voucher API designed for a backend developer test.
 The API is built using Express for the server framework and MongoDB for data storage.
 
-## LINK API
 
-- <https://illegal-vinita-twinsapp-4a7162f6.koyeb.app/users>
-- <https://illegal-vinita-twinsapp-4a7162f6.koyeb.app/voucher>
-- <https://illegal-vinita-twinsapp-4a7162f6.koyeb.app/brand>
-- <https://illegal-vinita-twinsapp-4a7162f6.koyeb.app/transaction/redemption>
-
-## ERD Diagram
-
-link : <https://app.eraser.io/workspace/ifQtfTojjLpuKxnTP5cm?origin=share>
 
 ## Table of Contents
 
@@ -95,7 +86,10 @@ link : <https://app.eraser.io/workspace/ifQtfTojjLpuKxnTP5cm?origin=share>
    The API will be running at:
 
    ```bash
-     http://localhost:3000/voucher
+     https://unpleasant-cleopatra-twinsapp-9e9ee0ab.koyeb.app/voucher
+     https://unpleasant-cleopatra-twinsapp-9e9ee0ab.koyeb.app/brand
+     https://unpleasant-cleopatra-twinsapp-9e9ee0ab.koyeb.app/user
+     https://unpleasant-cleopatra-twinsapp-9e9ee0ab.koyeb.app/transaction/redemption
    ```
 
 ## User
