@@ -73,6 +73,7 @@ The API is built using Express for the server framework and MongoDB for data sto
       DB_PASSWORD = ****
       DB_NAME = dataset
       DB_HOSTNAME = localhost
+      DB_PORT = 3307
    ```
 
 4. **Run the Application**  
@@ -122,7 +123,7 @@ The API is built using Express for the server framework and MongoDB for data sto
         "email": "",
         "password": "",
         "name":"",
-        "noTelephone":""
+        "points":""
     }
   ```
 
