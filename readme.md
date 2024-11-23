@@ -582,11 +582,9 @@
 
   ```bash
     {
-
-     "userId": "67402c6d0426d3e573646d88",
-    "voucherId": "67402ab132bf05d4f96c5eed",
-    "amount":2,
-    "desc":"total for Buy 2 Voucher Indomaret with"
+    "userId": "86093143-927c-4710-b4e6-845fccbcd3e2",
+    "vouchers":["81458bfc-1a43-465c-944f-426d7149e904", "81458bfc-1a43-465c-944f-426d7149e"],
+    "quantity":2
     }
   ```
 
