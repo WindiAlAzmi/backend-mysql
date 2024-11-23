@@ -1,12 +1,5 @@
 # API
 
-## Overview
-
-This is a simple Voucher API designed for a backend developer test.
-The API is built using Express for the server framework and MongoDB for data storage.
-
-
-
 ## Table of Contents
 
 1. [Installation & Setup](#installation--setup)
